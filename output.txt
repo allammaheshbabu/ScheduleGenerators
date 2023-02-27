@@ -1,0 +1,28 @@
+Match 1: Royal Challengers Bangalore vs Kolkata Knight Riders
+Match 2: Royal Challengers Bangalore vs Chennai Super Kings
+Match 3: Royal Challengers Bangalore vs Delhi Capitals
+Match 4: Royal Challengers Bangalore vs Punjab Kings
+Match 5: Royal Challengers Bangalore vs Rajasthan Royals
+Match 6: Royal Challengers Bangalore vs Sunrisers Hyderabad
+Match 7: Royal Challengers Bangalore vs Mumbai Indians
+Match 8: Kolkata Knight Riders vs Chennai Super Kings
+Match 9: Kolkata Knight Riders vs Delhi Capitals
+Match 10: Kolkata Knight Riders vs Punjab Kings
+Match 11: Kolkata Knight Riders vs Rajasthan Royals
+Match 12: Kolkata Knight Riders vs Sunrisers Hyderabad
+Match 13: Kolkata Knight Riders vs Mumbai Indians
+Match 14: Chennai Super Kings vs Delhi Capitals
+Match 15: Chennai Super Kings vs Punjab Kings
+Match 16: Chennai Super Kings vs Rajasthan Royals
+Match 17: Chennai Super Kings vs Sunrisers Hyderabad
+Match 18: Chennai Super Kings vs Mumbai Indians
+Match 19: Delhi Capitals vs Punjab Kings
+Match 20: Delhi Capitals vs Rajasthan Royals
+Match 21: Delhi Capitals vs Sunrisers Hyderabad
+Match 22: Delhi Capitals vs Mumbai Indians
+Match 23: Punjab Kings vs Rajasthan Royals
+Match 24: Punjab Kings vs Sunrisers Hyderabad
+Match 25: Punjab Kings vs Mumbai Indians
+Match 26: Rajasthan Royals vs Sunrisers Hyderabad
+Match 27: Rajasthan Royals vs Mumbai Indians
+Match 28: Sunrisers Hyderabad vs Mumbai Indians
